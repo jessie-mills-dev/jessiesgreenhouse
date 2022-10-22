@@ -16,17 +16,22 @@ server.use(express.urlencoded({ extended: false }))
 server.engine('hbs', hbs.engine({ extname: 'hbs' }))
 server.set('view engine', 'hbs')
 
-server.get('/', (req, res) => {
-  fsPromises
-    .readFile('./data.json', 'utf8')
-    .then((data) => {
-      let parsedData = JSON.parse(data)
-      res.render('home', parsedData)
-    })
-    .catch((error) => {
-      console.log(error)
-    })
-})
+server.get('/'),
+  (req, res) => {
+    res.render('home')
+  }
+
+// server.get('/', (req, res) => {
+//   fsPromises
+//     .readFile('./data.json', 'utf8')
+//     .then((data) => {
+//       let parsedData = JSON.parse(data)
+//       res.render('home', parsedData)
+//     })
+//     .catch((error) => {
+//       console.log(error)
+//     })
+// })
 
 server.use('/about', aboutRoutes)
 server.use('/plant', plantRoutes)

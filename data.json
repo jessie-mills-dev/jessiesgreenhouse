@@ -5,29 +5,120 @@
     "name:":"Monstera Deliciosa",
     "size":"Large",
     "fragility":"Hardy",
-    "image":"/public/images/monstera.jpeg",
+    "image":"/images/monstera.jpg",
     "ranking":"9"
   },
   {
     "name":"Marble Pothos",
     "size":"Medium",
-    "fragility":"Chloe",
-    "image":"/public/images/marblepothos.jpeg",
+    "fragility":"Hardy",
+    "image":"/images/marble.jpg",
     "ranking":"8"
   },  
   {
-    "name":"Chain of Hearts",
+    "name":"Variegated Chain of Hearts",
     "size":"Small",
-    "fragility":"",
-    "image":"/public/images/chainofhearts.jpeg",
-    "breed":"Rottweiler"
+    "fragility":"Hardy",
+    "image":"/images/vcoh.jpg",
+    "ranking":"8"
   },  
   {
-    "id":4,
-    "name":"Voldemort",
-    "owner":"Harry",
-    "image":"/public/images/hindurope.jpg",
-    "breed":"Lizard"
+    "name":"Brasil Philodendren",
+    "size":"Medium",
+    "fragility":"Average",
+    "image":"/images/brasil.jpg",
+    "ranking":"7"
+  },
+  {
+    "name":"Lipstick Plant",
+    "size":"Large",
+    "fragility":"Hardy",
+    "image":"/images/lipstick.jpg",
+    "ranking":"10"
+  },
+  {
+    "name":"Snake Plant",
+    "size":"Small",
+    "fragility":"Hardy",
+    "image":"/images/snakeplant.jpg",
+    "ranking":"6"
+  },
+  {
+    "name":"Heartleaf Philodendren",
+    "size":"Large",
+    "fragility":"Hardy",
+    "image":"/images/heartleaf.jpg",
+    "ranking":"10"
+  },
+  {
+    "name":"Random Succulent",
+    "size":"Small",
+    "fragility":"Hardy",
+    "image":"/images/succ.jpg",
+    "ranking":"6"
+  },
+  {
+    "name":"Golden Pothos",
+    "size":"Medium",
+    "fragility":"Sensitive",
+    "image":"/images/golden.jpg",
+    "ranking":"6"
+  },
+  {
+    "name":"Satin Pothos",
+    "size":"Medium",
+    "fragility":"Hardy",
+    "image":"/images/satin.jpg",
+    "ranking":"7"
+  },
+  {
+    "name":"Lucky Bamboo",
+    "size":"Medium",
+    "fragility":"Average",
+    "image":"/images/bamboo.jpg",
+    "ranking":"6.5"
+  },
+  {
+    "name":"Hoya Carnosa",
+    "size":"Medium",
+    "fragility":"Hardy",
+    "image":"/images/carnosa.jpg",
+    "ranking":"10"
+  },
+  {
+    "name":"Pink Bubbles",
+    "size":"Small",
+    "fragility":"Average",
+    "image":"/images/pinkbubbles.jpg",
+    "ranking":"6"
+  },
+  {
+    "name":"Chain of Turtles",
+    "size":"Small",
+    "fragility":"Average",
+    "image":"/images/turtles.jpg",
+    "ranking":"7"
+  },
+  {
+    "name":"Neon Pothos",
+    "size":"Medium",
+    "fragility":"Average",
+    "image":"/images/neon.jpg",
+    "ranking":"7"
+  },
+  {
+    "name":"Variegated Monstera",
+    "size":"Large",
+    "fragility":"Average",
+    "image":"/images/vmon.jpg",
+    "ranking":"10"
+  },
+  {
+    "name":"Hoya Hindu Rope",
+    "size":"Medium",
+    "fragility":"Average",
+    "image":"/images/hindurope.jpg",
+    "ranking":"8"
   }
 ]
 }
