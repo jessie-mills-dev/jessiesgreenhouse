@@ -1,0 +1,33 @@
+{
+  "plants":
+[
+  {
+    "name:":"Monstera Deliciosa",
+    "size":"Large",
+    "fragility":"Hardy",
+    "image":"/public/images/monstera.jpeg",
+    "ranking":"9"
+  },
+  {
+    "name":"Marble Pothos",
+    "size":"Medium",
+    "fragility":"Chloe",
+    "image":"/public/images/marblepothos.jpeg",
+    "ranking":"8"
+  },  
+  {
+    "name":"Chain of Hearts",
+    "size":"Small",
+    "fragility":"",
+    "image":"/public/images/chainofhearts.jpeg",
+    "breed":"Rottweiler"
+  },  
+  {
+    "id":4,
+    "name":"Voldemort",
+    "owner":"Harry",
+    "image":"/public/images/hindurope.jpg",
+    "breed":"Lizard"
+  }
+]
+}

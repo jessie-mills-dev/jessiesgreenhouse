@@ -1,9 +1,9 @@
 {
-  "name": "pupparazzi",
+  "name": "jessiesgreenhouse",
   "version": "2.0.0",
-  "description": "Challenge to learn server side rendering and callbacks",
+  "description": "personal challenge",
   "main": "index.js",
-  "author": "Dev Academy Aotearoa",
+  "author": "jessie mills",
   "license": "ISC",
   "scripts": {
     "start": "node index",
@@ -11,13 +11,13 @@
     "lint": "eslint .",
     "test": "jest --watchAll"
   },
-  "homepage": "https://github.com/dev-academy-challenges/pupparazzi#readme",
+  "homepage": "https://github.com/jessie-mills-dev/jessiesgreenhouse",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-academy-challenges/pupparazzi.git"
+    "url": "git+https://github.com/jessie-mills-dev/jessiesgreenhouse"
   },
   "bugs": {
-    "url": "https://github.com/dev-academy-challenges/pupparazzi/issues"
+    "url": "https://github.com/jessie-mills-dev/jessiesgreenhouse"
   },
   "eslintConfig": {
     "extends": "eda"
